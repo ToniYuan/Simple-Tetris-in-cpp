@@ -10,7 +10,7 @@ Because of I'm using a MacOS computer, but the original author is using Windows 
 For this game, some terminal libraries are used but not graphics libraries.
 I used ncurses to implemented same effect as windows version.
 
-## Environment Requirenments:
+## Environment Requirements:
 - MacOS
 - C++ 11 installed
 - ncurses installed
